@@ -12,3 +12,4 @@
 - chore: add a note about the defaults
 - chore: add a note about the defaults
 - chore: fix a small wording issue
+- docs: link the usage section
